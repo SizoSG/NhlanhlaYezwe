@@ -512,12 +512,12 @@ a:focus {
 }
 
 .feature .feature-item {
-    min-height: 250px;
+    min-height: 300px;
     padding: 30px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    height: 200px;
+    height: auto;
 }
 
 .feature .feature-icon {
